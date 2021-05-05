@@ -1,5 +1,5 @@
 # Singular-Value-Decomposition
-A very basic explanation of SVD on Python
+Basic explanation of SVD on Python
 
 Singular Value Decomposition on Python.ipynb : Basic svd  on matrix
 
